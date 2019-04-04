@@ -1,0 +1,105 @@
+/*Site and home header text styling*/
+
+%header-text{
+	font-family: Poppins;
+	font-weight: bold;
+
+}
+
+header{
+	@extend %header-text;
+}
+
+h2{
+	@extend %header-text;
+	font-size: 2rem;
+}
+
+nav{
+	 @extend %header-text;
+}
+
+
+.joe{
+	@extend %header-text;
+	font-size: 2.5rem;
+	color: white;
+}
+
+
+.joe span:first-of-type {
+	font-style: italic;
+	color: #00ced1;
+}
+
+.joe i:first-of-type {
+	color: #FF1493;
+
+}
+		
+
+h1{ 
+	@extend %header-text;
+	font-size: 1.5rem;
+}
+
+/*Site paragraph text styling*/
+
+%paragraph-text{
+	font-family: Nunito;
+}
+
+p{
+	@extend %paragraph-text;
+}
+
+.blogtext{
+	@extend %paragraph-text;
+	font-size: 1rem;
+}
+
+/*blogOne page text styling*/
+
+h4{
+	@extend %header-text;
+}
+
+li{
+	@extend %paragraph-text;
+}
+
+.blogarticle
+
+/*blog page text styling*/
+
+
+h5{
+	@extend %header-text;
+	font-size: 1.2rem;
+}
+
+.datesub{
+	@extend %paragraph-text;
+	font-size: 0.6rem;
+	color: gray;
+	font-weight: lighter;
+}
+
+.imagetag{
+	@extend %header-text;
+	font-weight: lighter;
+}
+
+/*contact page text styling*/
+
+label{
+	@extend %paragraph-text;
+}
+
+button{
+	@extend %paragraph-text;
+	font-weight: bolder;
+	font-size: 1rem;
+
+}
+

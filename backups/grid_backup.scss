@@ -1,0 +1,65 @@
+.top_home, .top_blog, .top_blogOne{
+	display: grid;
+	grid-template-rows: 1fr 90%;
+	grid-template-columns: 1fr 5fr 2fr;
+	width: 100%;
+}
+
+
+.top_home header{
+	grid-row: 1/2;
+	grid-column: 1/2;
+}
+
+.top_home nav, .top_blog nav, .top_blogOne nav{
+	grid-area: 1/3/2/4;
+}
+
+
+
+.hero_image{
+	grid-row: 2;
+	grid-column-start: 1;
+	grid-column-end: 4;
+	
+
+}
+
+
+
+ .home_main{
+ 	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-auto-flow: dense;
+}
+
+
+
+.portrait_and_cup{
+	grid-column: 1/2;
+}
+
+
+.woods_portraitBW_gorilla{
+	grid-column-start: 2;
+	grid-column-end: 3;
+}
+
+
+
+.blog_main{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.blog_main, .tape_and_graf{
+	column-start: 1/2;
+}
+
+.blog_main, .woods_and_gorilla{
+	column-start: 2/3;
+}
+
+
+
+img {width: 100%;}

@@ -1,0 +1,85 @@
+http://quirktools.com/smaps/
+
+Bubbl.us - brainstorm and mind map online
+
+https://www.creativebloq.com/wireframes/top-wireframing-tools-11121302
+
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+https://getbootstrap.com/docs/4.0/components/alerts/
+
+https://softwareengineering.stackexchange.com/questions/54451/library-vs-framework-vs-api
+
+http://cssgridgarden.com/
+
+https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/
+
+
+http://styleguides.io/
+
+http://patterns.alistapart.com/
+
+https://alistapart.com/about/style-guide
+
+https://fractal.build/
+
+MEthodologies
+
+http://oocss.org/
+
+http://atomicdesign.bradfrost.com/
+
+BEM — Block Element Modifier
+http://getbem.com/
+
+https://sass-lang.com/guide
+
+https://codepen.io/Rumyra/pen/oymjxE?editors=0100
+
+https://sass-lang.com/guide
+
+https://codepen.io/Rumyra/pen/rGoabq?editors=0100
+
+rumyra [10:10 AM]
+https://codepen.io/Rumyra/pen/RxqZYm?editors=0100
+CodePen
+Complex Selectors
+
+Complex Selectors - Learn to Code Advanced HTML & CSS
+
+https://specificity.keegan.st/
+
+https://github.com/develop-me/fellowship-wk2-adv-html-css/tree/master/day09/03SassBuildEx
+
+https://codepen.io/Rumyra/pen/a54bb414436dd336082d5da1ee4b702c?editors=0100 - Class: Mixin Example
+
+website bits https://codepen.io/Rumyra/pen/KRxZEB?editors=0100
+CodePen
+Class Project 2 Parts
+
+rumyra [2:08 PM]
+https://goo.gl/forms/OvUS0z5AeHlqvwrj2
+Google Docs
+DevMe Wk2 Test: Advanced HTML & CSS
+
+
+https://codepen.io/collection/DPpjME/
+CodePen
+:woman::skin-tone-2::school: Class Examples - a Collection by Rumyra on CodePen
+
+https://github.com/develop-me/fellowship-wk2-adv-html-css
+
+https://umaar.com/dev-tips/
+umaar.com
+Dev Tips - Developer Tips by Umar Hansa
+
+
+https://codepen.io/search/pens?q=bees%20and%20bombs&page=1&order=popularity&depth=everything&show_forks=on
+
+The talk I mentioned https://www.youtube.com/watch?v=wFn5nel3j6w
+
+
+
+
+
+

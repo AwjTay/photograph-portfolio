@@ -1,0 +1,45 @@
+.home .top{
+	display: grid;
+	grid-template-rows: auto auto;
+	grid-template-columns: 1fr;
+	overflow: auto;
+}
+
+.top .hero_image{
+	background-image: url(../images/hero.jpeg);
+	background-color: #48D1CC;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-blend-mode: multiply;
+	padding-top: 20vw;
+	padding-bottom: 20vw;
+	padding-left: 20%;
+	margin-top: 10px;
+	margin-bottom: 10%;
+}
+
+.home main{
+	grid-column-gap: 5%;
+}
+
+.portrait_and_cup img{
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.woods_portraitBW_gorilla img{
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.guitar img{
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.graf_and_tape img{
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+

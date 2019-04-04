@@ -1,0 +1,23 @@
+.social_icons a{
+
+	/*height: ;*/
+	display: inline-block;
+	outline-width: 100%;
+	background-color: #ffb6c1;
+	padding: 3vw;
+	border-radius: 50%;
+
+}
+
+.social_icons a:hover{
+	background-color: red;
+}
+
+
+.searchIcon{
+	outline-width: 100%;
+	background-color: #ffb6c1;
+	padding: 6px;
+	border-radius: 50%;
+	display: inline-block;
+}

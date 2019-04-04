@@ -1,0 +1,117 @@
+/*site wrapper*/
+body .wrapper{
+	padding: 2%;
+}
+
+/*site header layout*/
+
+.top{
+	display: grid;
+	grid-template-rows: 1fr 2fr;
+	grid-template-columns: 1fr;
+	overflow: auto;
+}
+
+.top h1{
+	grid-row: 1;
+	float: left;
+
+}
+
+.top nav{
+	grid-row: 1;
+	
+}
+
+.top .pagetitles{
+	grid-row: 2;
+	grid-column: 1/3;
+	
+}
+
+/*home hero layout*/
+
+.top .hero_image{
+	grid-column: 1/span 3;
+	grid-row: 2/span 3;
+}
+
+
+
+main{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-auto-flow: dense;
+	grid-gap: 5px;
+}
+
+
+
+/*HomePage main*/
+main .portrait_and_cup{
+	grid-column: 1/2;
+}
+
+main .woods_portraitBW_gorilla{
+	grid-column-start: 2;
+	grid-column-end: 3;
+}
+
+/*blog main*/
+
+main .tape_and_woods{
+	grid-column: 1/2;
+}
+
+main .graf_and_gorilla{
+	grid-column: 2/3;
+}
+
+
+
+/*blogOne main*/
+main article{
+	grid-column: 1/2;
+}
+
+main .blogOneColumn{
+	grid-column: 2/3;
+}
+
+
+/* contact main*/
+
+
+main .formColumn{
+	grid-column: 1/2;
+}
+
+
+
+img {width: 100%;}
+
+
+/*media query for site layout */
+
+@media screen and (max-width: 500px) {
+
+	.wrapper{
+
+		display: flex;
+		flex-direction: column;
+	}
+
+	main{
+		display: flex;
+		flex-direction: column;
+
+	}
+
+	.top .pagetitles h2{
+		margin-top: 8vh; 
+	}
+
+	
+
+
+}
